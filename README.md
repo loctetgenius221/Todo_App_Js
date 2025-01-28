@@ -24,7 +24,7 @@ Une application simple de gestion de tâches (To-Do List) développée en HTML, 
 
 ## Fonctionnalités supplémentaires envisagées
 
-Voici quelques idées de fonctionnalités que vous pourriez ajouter à cette application :
+Voici quelques idées de fonctionnalités qu'on envisage d'ajouter à cette application :
 
 ### 1. Suppression de tâches
 - Ajouter un bouton "Supprimer" à côté de chaque tâche pour permettre à l'utilisateur de supprimer une tâche de la liste.
